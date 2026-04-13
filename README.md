@@ -2,18 +2,7 @@
 
 A hands-on collection of 6 AWS Security projects built on Amazon Web Services (AWS), progressing from beginner to advanced level — built as part of my Cloud Security Engineer learning journey.
 
----
 
-## About Me
-
-- Fresher | Aspiring Cloud Security Engineer
-- Hands-on AWS Security & IAM projects
-- AWS IAM | Monitoring | Threat Detection | Web Security
-- Chennai, India
-
----
-
-## Projects
 
 | # | Project | Services Used | Level |
 |---|---------|--------------|-------|
