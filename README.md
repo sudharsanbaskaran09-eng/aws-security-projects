@@ -7,28 +7,7 @@ A hands-on collection of 6 AWS Security projects built on Amazon Web Services (A
 | # | Project | Services Used | Level |
 |---|---------|--------------|-------|
 | 1 | [IAM Role & Policy Management](./project-1-iam-role-policy-management) | IAM, EC2, S3 | Beginner |
-| 2 | [AWS Secrets Manager for Credential Storage](./project-2-secrets-manager) | Secrets Manager, IAM, Lambda | Beginner |
-| 3 | [API Gateway Security](./project-3-api-gateway-security) | API Gateway, Cognito, IAM, WAF | Intermediate |
-| 4 | [AWS Security Hub & GuardDuty](./project-4-security-hub-guardduty) | Security Hub, GuardDuty, IAM | Intermediate |
-| 5 | [CloudTrail Logging & SIEM Integration](./project-5-cloudtrail-siem) | CloudTrail, CloudWatch, S3, IAM | Advanced |
-| 6 | [AWS WAF for Application Security](./project-6-aws-waf-security) | AWS WAF, ALB, CloudFront, Shield | Advanced |
-
----
-
-## Architecture Overview
-
-```text
-User / Admin Access
-        ↓
-AWS IAM              — Identity & Access Control
-        ↓
-Monitoring Layer     — CloudTrail / GuardDuty / Security Hub
-        ↓
-Protection Layer     — WAF / API Gateway Security
-        ↓
-Secrets Layer        — Secrets Manager
-        ↓
-Storage & Logs       — S3 / CloudWatch
+| 2 | [AWS Secrets Manager for Credentia
 ```
 ## Tech Stack
 
