@@ -78,3 +78,19 @@ Amazon S3 Access
 - Cloud Security Best Practices
 
 ---
+## Screenshots
+
+```bash
+
+screenshots/
+├── 01-open-iam-dashboard.png
+├── 02-create-iam-user.png
+├── 03-attach-s3-policy-user.png
+├── 04-create-custom-policy.png
+├── 05-create-iam-role-ec2.png
+├── 06-launch-ec2-with-role.png
+├── 07-test-role-s3-access.png
+└── 08-enable-mfa-user.png
+
+```
+---
