@@ -54,3 +54,17 @@ IAM Role
 Temporary Credentials
         ↓
 Amazon S3 Access
+```
+---
+## Project Steps
+
+- Open AWS IAM Console
+- Create IAM User
+- Assign S3 ReadOnly permissions
+- Create Custom IAM Policy
+- Create IAM Role for EC2
+- Launch EC2 with IAM Role
+- Verify access using AWS CLI
+- Enable MFA for user security
+
+---
