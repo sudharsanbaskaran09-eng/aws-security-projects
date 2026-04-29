@@ -68,3 +68,13 @@ Amazon S3 Access
 - Enable MFA for user security
 
 ---
+## Security Concepts Demonstrated
+
+- Identity and Access Management
+- Role-Based Access Control (RBAC)
+- Least Privilege Access
+- Temporary Credentials
+- Strong Authentication (MFA)
+- Cloud Security Best Practices
+
+---
