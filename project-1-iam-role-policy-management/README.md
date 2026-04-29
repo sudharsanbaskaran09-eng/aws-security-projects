@@ -6,14 +6,7 @@ This project demonstrates how to secure AWS resources using the **Principle of L
 
 ---
 
-## Project Objective
-
-Build a secure AWS environment where:
-
-- IAM users have controlled access
-- EC2 instances securely access S3 using IAM Roles
-- Custom policies provide fine-grained permissions
-- MFA protects user accounts
+##
 - No hardcoded AWS credentials are used
 
 ---
