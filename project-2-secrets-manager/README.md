@@ -1,21 +1,4 @@
-
-
-| Category | Service |
-|---|---|
-| Security | AWS Secrets Manager |
-| Identity | AWS IAM |
-| Compute | Amazon EC2 |
-| CLI | AWS CLI |
-
----
-
-## Key Features
-
-- Secure storage of credentials
-- IAM-based access control
-- EC2 Role-based authentication
-- No hardcoded secrets
-- Real-world cloud security implementation
+loud security implementation
 
 ---
 
