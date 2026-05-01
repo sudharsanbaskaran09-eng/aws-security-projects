@@ -1,29 +1,4 @@
-loud security implementation
-
----
-
-## Architecture
-
-```text
-Secrets Manager
-      ↓
-Stores Credentials
-      ↓
-IAM Role
-      ↓
-EC2 Instance
-      ↓
-Secure Retrieval using AWS CLI
-```
-
----
-
-## Project Steps
-
-| Step | Action |
-|---|---|
-| 01 | Open AWS Secrets Manager |
-| 02 | Create Secret (type: Other) — add `username` and `password` |
+sername` and `password` |
 | 03 | Configure Secret — name it `my-app-credentials` |
 | 04 | Create IAM Policy — allow `secretsmanager:GetSecretValue` |
 | 05 | Create IAM Role for EC2 — attach `SecretsManagerReadPolicy` |
