@@ -6,20 +6,7 @@ This project eliminates hardcoded credentials and uses IAM Roles for secure, sca
 
 ---
 
-## Key Features
 
-- Secure storage of credentials
-- IAM-based access control
-- EC2 Role-based authentication
-- No hardcoded secrets
-- Real-world cloud security implementation
-
----
-
-## Architecture
-
-```text
-Secrets Manager
       ↓
 Stores Credentials
       ↓
