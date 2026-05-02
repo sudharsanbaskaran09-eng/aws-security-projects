@@ -6,16 +6,6 @@ This project eliminates hardcoded credentials and uses IAM Roles for secure, sca
 
 ---
 
-
-| Category | Service |
-|---|---|
-| Security | AWS Secrets Manager |
-| Identity | AWS IAM |
-| Compute | Amazon EC2 |
-| CLI | AWS CLI |
-
----
-
 ## Key Features
 
 - Secure storage of credentials
