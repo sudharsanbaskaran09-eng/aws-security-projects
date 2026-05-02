@@ -1,24 +1,3 @@
-# Project 2: AWS Secrets Manager for Credential Storage
-
-
-## Pnce — Amazon Linux 2023, t2.micro |
-| 07 | Attach `EC2-Secrets-Access-Role` to EC2 |
-| 08 | Retrieve secret using AWS CLI |
-
-### Step 08 — Retrieve Secret via AWS CLI
-
-```bash
-aws secretsmanager get-secret-value \
-  --secret-id my-app-credentials \
-  --region us-east-1
-```
-
----
-
-## IAM Policy Example
-
-```json
-{
   "Version": "2012-10-17",
   "Statement": [
     {
