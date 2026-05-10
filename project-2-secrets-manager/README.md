@@ -14,19 +14,6 @@ A hands-on AWS Security project demonstrating how to securely store and retrieve
 - Real-world cloud security implementation
 
 ---
-
-## Architecture
-
-```text
-Secrets Manager
-      ↓
-Stores Credentials
-      ↓
-IAM Role
-      ↓
-EC2 Instance
-      ↓
-Secure Retrieval using AWS CLI
 ```
 
 ---
