@@ -8,24 +8,7 @@ A hands-on AWS Security project demonstrating how to securely store and retrieve
 ## Key Features
 
 - Secure storage of credentials
-- IAM-based access control
-- EC2 Role-based authenticati
-```json
-{
-  "Version": "2012-10-17",
-├── 04-create-policy.png
-├── 05-create-role.png
-├── 05a-launch-ec2.png
-├── 06-attach-role.png
-└── 07-fetch-secret.png
-```
-
----
-
-## Outcome
-
-- Credentials stored securely in AWS Secrets Manager
-- No exposure of sensitive data in code or config
+nfig
 - IAM controls access effectively
 - EC2 retrieves secrets using role-based authentication
 
