@@ -9,25 +9,7 @@ A hands-on AWS Security project demonstrating how to securely store and retrieve
 
 - Secure storage of credentials
 - IAM-based access control
-- EC2 Role-based authentication
-- No hardcoded secrets
-- Real-world cloud security implementation
-
----
-```
-
----
-alue` |
-
-aws secretsmanager get-secret-value \
-  --secret-id my-app-credentials \
-  --region us-east-1
-```
-
----
-
-## IAM Policy Example
-
+- EC2 Role-based authenticati
 ```json
 {
   "Version": "2012-10-17",
