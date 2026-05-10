@@ -6,18 +6,6 @@ This project eliminates hardcoded credentials and uses IAM Roles for secure, sca
 
 ---
 
-## Project Objective
-
-Build a secure system where:
-
-- Sensitive data is stored in AWS Secrets Manager
-- Access is controlled using IAM policies
-- EC2 retrieves secrets securely using IAM Role
-- No credentials are exposed in code or configuration
-
----
-
-## Services Used
 
 | Category | Service |
 |---|---|
