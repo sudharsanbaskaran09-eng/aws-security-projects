@@ -1,4 +1,4 @@
-# 🔐 AWS Security Projects Portfolio
+# AWS Security Projects Portfolio
 
 > A hands-on collection of **6 AWS Security projects** progressing from beginner to advanced — built as part of my Cloud Security Engineer learning journey.
 
