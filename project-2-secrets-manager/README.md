@@ -87,22 +87,7 @@ screenshots/
 ├── 05a-launch-ec2.png
 ├── 06-attach-role.png
 └── 07-fetch-secret.png
-```
-
----
-
-## Outcome
-
-- Credentials stored securely in AWS Secrets Manager
-- No exposure of sensitive data in code or config
-- IAM controls access effectively
-- EC2 retrieves secrets using role-based authentication
-
----
-
-## Skills Gained
-
-- AWS Secrets Manager usage
+ AWS Secrets Manager usage
 - IAM policy creation
   
 
