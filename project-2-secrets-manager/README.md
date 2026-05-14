@@ -9,15 +9,6 @@
 
 ---
 
-## Key Features
-
-- Secure storage of credentials
-- IAM-based access control
-- EC2 Role-based authentication
-- No hardcoded secrets
-- Real-world cloud security implementation
-
----
 
 ## Architecture
 
