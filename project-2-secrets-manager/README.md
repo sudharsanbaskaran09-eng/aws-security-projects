@@ -1,15 +1,5 @@
 # Pntial Storage
 
-A hands-on AWS Security project demonstrating how to securely store and retrieve sensitive information such as usernames, passwords, and API keys using AWS Secrets Manager.
-
-This project eliminates hardcoded credentials and uses IAM Roles for secure, scalable access.
-
----
-
-## Project Objective
-
-Build a secure system where:
-
 - Sensitive data is stored in AWS Secrets Manager
 - Access is controlled using IAM policies
 - EC2 retrieves secrets securely using IAM Role
