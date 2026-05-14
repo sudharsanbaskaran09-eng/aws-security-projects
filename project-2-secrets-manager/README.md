@@ -49,21 +49,4 @@ aws secretsmanager get-secret-value \
 }
 ```
 
----
-
-## Screenshots
-
-```text
-screenshots/
-├── 01-open-secrets-manager.png
-├── 02-create-secret.png
-├── 03-secret-created.png
-├── 04-create-policy.png
-├── 05-create-role.png
-├── 05a-launch-ec2.png
-├── 06-attach-role.png
-└── 07-fetch-secret.png
- AWS Secrets Manager usage
-- IAM policy creation
-  
-
+--
