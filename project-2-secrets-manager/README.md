@@ -1,18 +1,3 @@
-## Services Used
-
-| Category | Service |
-|---|---|
-| Security | AWS Secrets Manager |
-| Identity | AWS IAM |
-| Compute | Amazon EC2 |
-| CLI | AWS CLI |
-
----
-
-
-## Architecture
-
-```text
 Secrets Manager
       ↓
 Stores Credentials
