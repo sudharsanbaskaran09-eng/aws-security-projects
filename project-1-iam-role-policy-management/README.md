@@ -122,6 +122,7 @@ screenshots/
 ├── 06-launch-ec2-with-role.png
 ├── 07-test-role-s3-access.png
 └── 08-enable-mfa-user.png
+└── Architecture diagram
 ```
 
 ---
