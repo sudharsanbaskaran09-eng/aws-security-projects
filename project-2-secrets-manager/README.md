@@ -1,9 +1,18 @@
 # Project 2: AWS Secrets Manager for Credential Storage
 
-A 
+A hands-on AWS Security project demonstrating how to securely store and retrieve sensitive information such as usernames, passwords, and API keys using AWS Secrets Manager.
+
+This project eliminates hardcoded credentials and uses IAM Roles for secure, scalable access.
+
 ---
 
- securely using IAM Role
+## Project Objective
+
+Build a secure system where:
+
+- Sensitive data is stored in AWS Secrets Manager
+- Access is controlled using IAM policies
+- EC2 retrieves secrets securely using IAM Role
 - No credentials are exposed in code or configuration
 
 ---
@@ -123,6 +132,5 @@ screenshots/
 ## Resume Value
 
 > This project demonstrates practical experience in securing application credentials using AWS services, making it valuable for **Cloud Security**, **DevOps**, and **Cloud Engineering** roles.
-
 
 
