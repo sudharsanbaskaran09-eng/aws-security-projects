@@ -1,6 +1,6 @@
 # AWS Security Projects Portfolio
 
-> A hands-on collection of **6 AWS Security projects** progressing from beginner to advanced — built as part of my Cloud Security Engineer learning journey.
+> A hands-on collection of **7 AWS Security projects** progressing from beginner to advanced — built as part of my Cloud Security Engineer learning journey.
 
 <br>
 
@@ -8,7 +8,7 @@
 
 - 🎓 Fresher | Aspiring Cloud Security Engineer
 - 🛠️ Hands-on AWS Security & IAM projects
-- 🔑 AWS IAM | Monitoring | Threat Detection | Web Security
+- 🔑 AWS IAM | Monitoring | Threat Detection | Governance | Web Security
 - 📍 Chennai, India
 
 <br>
@@ -19,16 +19,17 @@
 |---|---------|--------------|-------|
 | 1 | [IAM Role & Policy Management](./project-1-iam-role-policy-management) | IAM, EC2, S3 | 🟢 Beginner |
 | 2 | [AWS Secrets Manager for Credential Storage](./project-2-secrets-manager) | Secrets Manager, IAM, Lambda | 🟢 Beginner |
-| 3 | [API Gateway Security](./project-3-api-gateway-security) | API Gateway, Cognito, IAM, WAF | 🟡 Intermediate |
+| 3 | [API Gateway Security](./project-3-api-gateway-security) | API Gateway, Cognito, IAM | 🟡 Intermediate |
 | 4 | [AWS Security Hub & GuardDuty](./project-4-security-hub-guardduty) | Security Hub, GuardDuty, IAM | 🟡 Intermediate |
 | 5 | [CloudTrail Logging & SIEM Integration](./project-5-cloudtrail-siem) | CloudTrail, CloudWatch, S3, IAM | 🔴 Advanced |
-| 6 | [AWS WAF for Application Security](./project-6-aws-waf-security) | AWS WAF, ALB, CloudFront, Shield | 🔴 Advanced |
+| 6 | [AWS Config Compliance Monitoring](./project-6-aws-config-compliance-monitoring) | AWS Config, S3, IAM | 🔴 Advanced |
+| 7 | [AWS WAF for Application Security](./project-7-aws-waf-application-security) | AWS WAF, API Gateway, Shield | 🔴 Advanced |
 
 <br>
 
 ## 🏗️ Architecture Overview
 
-```
+```text
 User / Admin Access
         │
         ▼
@@ -39,6 +40,11 @@ User / Admin Access
         ▼
 ┌───────────────────┐
 │ Monitoring Layer  │  ← CloudTrail / GuardDuty / Security Hub
+└───────┬───────────┘
+        │
+        ▼
+┌───────────────────┐
+│ Governance Layer  │  ← AWS Config Compliance Monitoring
 └───────┬───────────┘
         │
         ▼
@@ -64,19 +70,19 @@ User / Admin Access
 | Category | Tools |
 |----------|-------|
 | ☁️ Cloud | Amazon Web Services (AWS) |
-| 🔒 Security | IAM, WAF, GuardDuty, Security Hub |
+| 🔒 Security | IAM, WAF, GuardDuty, Security Hub, AWS Config |
 | 📊 Monitoring | CloudTrail, CloudWatch |
 | 🪪 Identity | IAM Roles, Policies, MFA |
 | 🔑 Secrets | AWS Secrets Manager |
 | 🔌 API Security | API Gateway, Cognito |
 | 📝 Logging | S3, CloudWatch Logs |
-| 🌐 Networking | ALB, CloudFront |
+| 🌐 Networking | CloudFront, Shield |
 
 <br>
 
 ## 📂 Repository Structure
 
-```
+```text
 aws-security-projects/
 ├── README.md
 ├── project-1-iam-role-policy-management/
@@ -84,7 +90,8 @@ aws-security-projects/
 ├── project-3-api-gateway-security/
 ├── project-4-security-hub-guardduty/
 ├── project-5-cloudtrail-siem/
-└── project-6-aws-waf-security/
+├── project-6-aws-config-compliance-monitoring/
+└── project-7-aws-waf-application-security/
 ```
 
 <br>
@@ -117,6 +124,7 @@ aws configure
 - API Authentication & Authorization
 - Threat Detection & Security Monitoring
 - Log Auditing & Governance
+- Compliance Monitoring using AWS Config
 - Web Application Firewall Rules
 - Cloud Security Best Practices
 
@@ -144,6 +152,5 @@ Every project contains a dedicated `screenshots/` folder with complete step-by-s
 ---
 
 <p align="center">
-  <i>Built with hands-on learning | Cloud Security Engineer in progress 🚀</i>
+  <i>Built with hands-on learning | Aspiring Cloud Security Engineer 🚀</i>
 </p>
-
