@@ -2,8 +2,6 @@
 
 A hands-on AWS Security project focused on implementing continuous compliance monitoring and governance using AWS Config.
 
-This project demonstrates how cloud security teams monitor AWS resources, detect misconfigurations, and maintain compliance using automated AWS Config rules.
-
 ---
 
 # Project Objective
