@@ -19,8 +19,6 @@ The goal of this project is to:
 ---
 |---|---|
 | Amazon S3 | Configuration snapshots and history |
-| IAM | Access management and monitoring |
-
 ---
 
 # Architecture Overview
