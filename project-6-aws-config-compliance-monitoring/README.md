@@ -9,9 +9,6 @@ A hands-on AWS Security project focused on implementing continuous compliance mo
 The goal of this project is to:
 
 - Track AWS resource configurations
-- - Understand cloud governance workflows
-
----
 |---|---|
 | Amazon S3 | Configuration snapshots and history |
 
