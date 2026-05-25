@@ -1,19 +1,62 @@
 # AWS Config Compliance Monitoring
 
+A hands-on AWS Security project focused on implementing continuous compliance monitoring and governance using AWS Config.
+
+This project demonstrates how cloud security teams monitor AWS resources, detect misconfigurations, and maintain compliance using automated AWS Config rules.
 
 ---
 
 # Project Objective
 
+The goal of this project is to:
 
+- Enable AWS Config for resource monitoring
 - Track AWS resource configurations
-|---|---|
+- Create compliance monitoring rules
+- Detect security misconfigurations
+- Monitor compliant and noncompliant resources
+- Understand cloud governance workflows
+
 ---
+
+# AWS Services Used
+
+| Service | Purpose |
+|---|---|
+| AWS Config | Compliance monitoring and configuration tracking |
+| Amazon S3 | Configuration snapshots and history |
+| IAM | Access management and monitoring |
+
+---
+
+# Architecture Overview
+
+```text
+AWS Resources
+      ↓
+AWS Config
+      ↓
+Configuration Recording
+      ↓
+Compliance Rules
+      ↓
+Resource Evaluation
+      ↓
+Compliance Dashboard
+      ↓
+Governance & Monitoring
+```
+
+---
+
+# Key Features
 
 - Continuous compliance monitoring
 - Resource configuration tracking
+- Automated rule evaluation
 - Noncompliant resource detection
 - Governance dashboard
+- Cloud security visibility
 - Configuration auditing
 
 ---
