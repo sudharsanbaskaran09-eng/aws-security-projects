@@ -10,24 +10,6 @@ The goal of this project is to:
 
 - Track AWS resource configurations
 |---|---|
-| Amazon S3 | Configuration snapshots and history |
-
-```text
-AWS Resources
-      ↓
-AWS Config
-      ↓
-Configuration Recording
-      ↓
-Compliance Rules
-      ↓
-Resource Evaluation
-      ↓
-Compliance Dashboard
-      ↓
-Governance & Monitoring
-```
-
 ---
 
 - Continuous compliance monitoring
