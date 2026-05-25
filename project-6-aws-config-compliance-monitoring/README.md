@@ -14,7 +14,6 @@ The goal of this project is to:
 
 - Continuous compliance monitoring
 - Resource configuration tracking
-- Automated rule evaluation
 - Noncompliant resource detection
 - Governance dashboard
 - Configuration auditing
