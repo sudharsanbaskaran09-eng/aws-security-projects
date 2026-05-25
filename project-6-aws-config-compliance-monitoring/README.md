@@ -1,6 +1,5 @@
 # AWS Config Compliance Monitoring
 
-A hands-on AWS Security project focused on implementing continuous compliance monitoring and governance using AWS Config.
 
 ---
 
