@@ -17,12 +17,7 @@ The goal of this project is to:
 - - Understand cloud governance workflows
 
 ---
-
-# AWS Services Used
-
-| Service | Purpose |
 |---|---|
-| AWS Config | Compliance monitoring and configuration tracking |
 | Amazon S3 | Configuration snapshots and history |
 | IAM | Access management and monitoring |
 
