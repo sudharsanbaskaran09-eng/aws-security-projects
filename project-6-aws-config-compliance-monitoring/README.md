@@ -6,7 +6,6 @@ A hands-on AWS Security project focused on implementing continuous compliance mo
 
 # Project Objective
 
-The goal of this project is to:
 
 - Track AWS resource configurations
 |---|---|
