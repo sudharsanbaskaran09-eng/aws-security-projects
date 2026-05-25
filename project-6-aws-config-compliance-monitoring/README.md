@@ -33,14 +33,11 @@ Governance & Monitoring
 
 ---
 
-# Key Features
-
 - Continuous compliance monitoring
 - Resource configuration tracking
 - Automated rule evaluation
 - Noncompliant resource detection
 - Governance dashboard
-- Cloud security visibility
 - Configuration auditing
 
 ---
