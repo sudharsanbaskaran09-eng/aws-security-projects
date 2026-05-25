@@ -8,9 +8,8 @@ A hands-on AWS Security project focused on implementing continuous compliance mo
 
 The goal of this project is to:
 
-- Enable AWS Config for resource monitoring
 - Track AWS resource configurations
-- - - Understand cloud governance workflows
+- - Understand cloud governance workflows
 
 ---
 |---|---|
