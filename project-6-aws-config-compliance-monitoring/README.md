@@ -14,9 +14,6 @@ The goal of this project is to:
 ---
 |---|---|
 | Amazon S3 | Configuration snapshots and history |
----
-
-# Architecture Overview
 
 ```text
 AWS Resources
