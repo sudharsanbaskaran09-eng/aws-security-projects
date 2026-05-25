@@ -10,8 +10,7 @@ The goal of this project is to:
 
 - Enable AWS Config for resource monitoring
 - Track AWS resource configurations
-- Detect security misconfigurations
-- - Understand cloud governance workflows
+- - - Understand cloud governance workflows
 
 ---
 |---|---|
