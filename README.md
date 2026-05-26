@@ -6,24 +6,6 @@
 
 ## 👤 About Me
 
-<br>
-
-        │
-        ▼
-┌───────────────────┐
-│ Protection Layer  │  ← WAF / API Gateway Security
-└───────┬───────────┘
-        │
-        ▼
-┌───────────────────┐
-│  Secrets Layer    │  ← Secrets Manager
-└───────┬───────────┘
-        │
-        ▼
-┌───────────────────┐
-│ Storage & Logs    │  ← S3 / CloudWatch
-└───────────────────┘
-```
 
 <br>
 
