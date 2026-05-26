@@ -13,17 +13,6 @@
 
 <br>
 
-## 🏗️ Architecture Overvi┌───────────────────┐
-│    AWS IAM        │  ← Identity & Access Control
-└───────┬───────────┘
-        │
-        ▼
-┌───────────────────┐
-│ Monitoring Layer  │  ← CloudTrail / GuardDuty / Security Hub
-└───────┬───────────┘
-        │
-        ▼AWS Config Compliance Monitoring
-└───────┬───────────┘
         │
         ▼
 ┌───────────────────┐
