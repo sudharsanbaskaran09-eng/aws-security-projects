@@ -8,8 +8,6 @@
 
 
 | 3 | [API Gateway Security](./project-3-api-gateway-security) | API Gateway, Cognito, IAM | 🟡 Intermediate |
-| 4 | [AWS Security Hub & GuardDuty](./project-4-security-hub-guardduty) | Security Hub, GuardDuty, IAM | 🟡 Intermediate |
-| 5 | [CloudTrail Logging & SIEM Integration](./project-5-cloudtrail-siem) | CloudTrail, CloudWatch, S3, IAM | 🔴 Advanced |
 | 6 | [AWS Config Compliance Monitoring](./project-6-aws-config-compliance-monitoring) | AWS Config, S3, IAM | 🔴 Advanced |
 | 7 | [AWS WAF for Application Security](./project-7-aws-waf-application-security) | AWS WAF, API Gateway, Shield | 🔴 Advanced |
 
