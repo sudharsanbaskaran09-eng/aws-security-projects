@@ -6,11 +6,6 @@
 
 ## 👤 About Me
 
-
-| 3 | [API Gateway Security](./project-3-api-gateway-security) | API Gateway, Cognito, IAM | 🟡 Intermediate |
-| 6 | [AWS Config Compliance Monitoring](./project-6-aws-config-compliance-monitoring) | AWS Config, S3, IAM | 🔴 Advanced |
-| 7 | [AWS WAF for Application Security](./project-7-aws-waf-application-security) | AWS WAF, API Gateway, Shield | 🔴 Advanced |
-
 <br>
 
         │
