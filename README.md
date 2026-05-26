@@ -1,26 +1,4 @@
-# AWS Security Projects Portfolio
 
-> A hands-on collection of **7 AWS Security projects** progressing from beginner to advanced — built as part of my Cloud Security Engineer learning journey.
-
-<br>
-
-## 👤 About Me
-
-
-<br>
-
-## 🛠️ Tech Stack
-
-| Category | Tools |
-|----------|-------|
-| ☁️ Cloud | Amazon Web Services (AWS) |
-| 🔒 Security | IAM, WAF, GuardDuty, Security Hub, AWS Config |
-| 📊 Monitoring | CloudTrail, CloudWatch |
-| 🪪 Identity | IAM Roles, Policies, MFA |
-| 🔑 Secrets | AWS Secrets Manager |
-| 🔌 API Security | API Gateway, Cognito |
-| 📝 Logging | S3, CloudWatch Logs |
-| 🌐 Networking | CloudFront, Shield |
 
 <br>
 
