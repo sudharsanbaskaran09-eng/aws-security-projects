@@ -5,24 +5,7 @@
 ## 📂 Repository Structure
 
 ```text
-aws-security-projects/
-├── README.md
-├── project-1-iam-role-policy-management/
-├── project-2-secrets-manager/
-├── project-3-api-gateway-security/
-├── project-4-security-hub-guardduty/
-├── project-5-cloudtrail-siem/
-├── project-6-aws-config-compliance-monitoring/
-└── project-7-aws-waf-application-security/
-```
 
-<br>
-
-## ⚙️ How to Set Up
-
-### Prerequisites
-
-- AWS Account
 - Basic IAM knowledge
 - AWS CLI installed
 - Browser access to AWS Console
