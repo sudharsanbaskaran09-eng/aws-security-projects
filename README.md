@@ -6,19 +6,7 @@
 
 ## 👤 About Me
 
-- 🎓 Fresher | Aspiring Cloud Security Engineer
-- 🛠️ Hands-on AWS Security & IAM projects
-- 🔑 AWS IAM | Monitoring | Threat Detection | Governance | Web Security
-- 📍 Chennai, India
 
-<br>
-
-## 📁 Projects Overview
-
-| # | Project | Services Used | Level |
-|---|---------|--------------|-------|
-| 1 | [IAM Role & Policy Management](./project-1-iam-role-policy-management) | IAM, EC2, S3 | 🟢 Beginner |
-| 2 | [AWS Secrets Manager for Credential Storage](./project-2-secrets-manager) | Secrets Manager, IAM, Lambda | 🟢 Beginner |
 | 3 | [API Gateway Security](./project-3-api-gateway-security) | API Gateway, Cognito, IAM | 🟡 Intermediate |
 | 4 | [AWS Security Hub & GuardDuty](./project-4-security-hub-guardduty) | Security Hub, GuardDuty, IAM | 🟡 Intermediate |
 | 5 | [CloudTrail Logging & SIEM Integration](./project-5-cloudtrail-siem) | CloudTrail, CloudWatch, S3, IAM | 🔴 Advanced |
