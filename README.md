@@ -13,13 +13,7 @@
 
 <br>
 
-## 🏗️ Architecture Overview
-
-```text
-User / Admin Access
-        │
-        ▼
-┌───────────────────┐
+## 🏗️ Architecture Overvi┌───────────────────┐
 │    AWS IAM        │  ← Identity & Access Control
 └───────┬───────────┘
         │
@@ -28,9 +22,7 @@ User / Admin Access
 │ Monitoring Layer  │  ← CloudTrail / GuardDuty / Security Hub
 └───────┬───────────┘
         │
-        ▼
-┌───────────────────┐
-│ Governance Layer  │  ← AWS Config Compliance Monitoring
+        ▼AWS Config Compliance Monitoring
 └───────┬───────────┘
         │
         ▼
