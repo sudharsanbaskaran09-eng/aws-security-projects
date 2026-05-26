@@ -21,11 +21,8 @@ aws configure
 
 <br>
 
-## ✅ Skills Demonstrated
 
 - IAM Role & Policy Creation
-- Least Privilege Access Control
-- Credential Protection using Secrets Manager
 - API Authentication & Authorization
 - Threat Detection & Security Monitoring
 - Log Auditing & Governance
