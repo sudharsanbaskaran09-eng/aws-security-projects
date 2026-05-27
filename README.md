@@ -2,13 +2,6 @@
 
 > A hands-on collection of **7 AWS Security projects** progressing from beginner to advanced — built as part of my Cloud Security Engineer learning journey.
 
-<br>
-
-## 👤 About Me
-
-- 🎓 Fresher | Aspiring Cloud Security Engineer
-- 🛠️ Hands-on AWS Security & IAM projects
-- 🔑 AWS IAM | Monitoring | Threat Detection | Governance | Web Security
 - 📍 Chennai, India
 
 <br>
