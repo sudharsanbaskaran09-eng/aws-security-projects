@@ -4,19 +4,7 @@
 
 - 📍 Chennai, India
 
-<br>
 
-## 📁 Projects Overview
- | Secrets Manager, IAM, Lambda | 🟢 Beginner |
-| 3 | [API Gateway Security](./projectF, API Gateway, Shield | 🔴 Advanced |
-
-<br>
-
-## 🏗️ Architecture Overview
-
-```text
-User / Admin Access
-        │
         ▼
 ┌───────────────────┐
 │    AWS IAM        │  ← Identity & Access Control
