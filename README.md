@@ -1,21 +1,4 @@
 
-## ⚙️ How to Set Up
-
-### Prerequisites
-
-- AWS Account
-- Basic IAM knowledge
-- AWS CLI installed
-- Browser access to AWS Console
-
-### Configure AWS CLI
-
-```bash
-aws configure
-# Enter Access Key, Secret Key, Region, Output Format
-```
-
-> Each project folder contains its own detailed `README.md` with step-by-step setup instructions.
 
 <br>
 
