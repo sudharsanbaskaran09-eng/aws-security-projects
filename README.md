@@ -1,15 +1,3 @@
-# AWS Security Projects Portfolio
-
-> A hands-on collection of **7 AWS Security projects** progressing from beginner to advanced — built as part of my Cloud Security Engineer learning journey.
-
-- 📍 Chennai, India
-
-
-        ▼
-
-```
-
-<br>
 
 ## 🛠️ Tech Stack
 
