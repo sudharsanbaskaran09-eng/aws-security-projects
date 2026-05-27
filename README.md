@@ -7,14 +7,7 @@
 
         ▼
 ┌───────────────────┐
-│    AWS IAM        │  ← Identity & Access Control
-└───────┬───────────┘
-        │
-        ▼
-┌───────────────────┐
-│ Monitoring Layer  │  ← CloudTrail / GuardDuty / Security Hub
-└───────┬───────────┘
-      
+│    AWS I
         ▼
 ┌───────────────────┐
 │  Secrets Layer    │  ← Secrets Manager
