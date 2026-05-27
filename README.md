@@ -1,18 +1,4 @@
 
-## 🛠️ Tech Stack
-
-| Category | Tools |
-
-├── project-2-secrets-manager/
-├── project-3-api-gateway-security/
-├── project-4-security-hub-guardduty/
-├── project-5-cloudtrail-siem/
-├── project-6-aws-config-compliance-monitoring/
-└── project-7-aws-waf-application-security/
-```
-
-<br>
-
 ## ⚙️ How to Set Up
 
 ### Prerequisites
