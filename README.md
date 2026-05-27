@@ -14,17 +14,7 @@
 ┌───────────────────┐
 │ Monitoring Layer  │  ← CloudTrail / GuardDuty / Security Hub
 └───────┬───────────┘
-        │
-        ▼
-┌───────────────────┐
-│ Governance Layer  │  ← AWS Config Compliance Monitoring
-└───────┬───────────┘
-        │
-        ▼
-┌───────────────────┐
-│ Protection Layer  │  ← WAF / API Gateway Security
-└───────┬───────────┘
-        │
+      
         ▼
 ┌───────────────────┐
 │  Secrets Layer    │  ← Secrets Manager
