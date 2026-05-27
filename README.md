@@ -2,24 +2,7 @@
 ## 🛠️ Tech Stack
 
 | Category | Tools |
-|----------|-------|
-| ☁️ Cloud | Amazon Web Services (AWS) |
-| 🔒 Security | IAM, WAF, GuardDuty, Security Hub, AWS Config |
-| 📊 Monitoring | CloudTrail, CloudWatch |
-| 🪪 Identity | IAM Roles, Policies, MFA |
-| 🔑 Secrets | AWS Secrets Manager |
-| 🔌 API Security | API Gateway, Cognito |
-| 📝 Logging | S3, CloudWatch Logs |
-| 🌐 Networking | CloudFront, Shield |
 
-<br>
-
-## 📂 Repository Structure
-
-```text
-aws-security-projects/
-├── README.md
-├── project-1-iam-role-policy-management/
 ├── project-2-secrets-manager/
 ├── project-3-api-gateway-security/
 ├── project-4-security-hub-guardduty/
