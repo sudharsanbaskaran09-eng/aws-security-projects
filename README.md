@@ -2,26 +2,7 @@
 
 <br>
 
-## ✅ Skills Demonstrated
-
-- IAM Role & Policy Creation
-- Least Privilege Access Control
-- Credential Protection using Secrets Manager
-- API Authentication & Authorization
-- Threat Detection & Security Monitoring
-- Log Auditing & Governance
-- Compliance Monitoring using AWS Config
-- Web Application Firewall Rules
-- Cloud Security Best Practices
-
-<br>
-
-## 🏅 Certifications
-
-- [x] AWS Certified Cloud Practitioner (CLF-C02)
-- [ ] AWS Certified Security – Specialty *(In Progress)*
-- [ ] AWS Certified Solutions Architect – Associate *(Planned)*
-
+## ✅
 <br>
 
 ## 📸 Screenshots
