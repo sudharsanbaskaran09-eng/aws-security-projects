@@ -5,19 +5,6 @@ A hands-on AWS Security project focused on implementing centralized audit loggin
 This project demonstrates how cloud security teams monitor AWS account activities, track API calls, and store audit logs securely for compliance and forensic analysis.
 
 ---
-
----
-
-# AWS Services Used
-
-| Service | Purpose |
-|---|---|
-| AWS CloudTrail | Audit logging and activity tracking |
-| Amazon S3 | Secure log storage |
-| IAM | Access and account activity monitoring |
-
----
-
 # Architecture Overview
 
 ```text
