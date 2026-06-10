@@ -2,13 +2,9 @@
 
 A hands-on AWS Security project focused on implementing centralized audit logging, activity monitoring, and security event visibility using AWS CloudTrail and Amazon S3.
 
-Th
-- Enable AWS CloudTrail logging
-- Capture AWS account activities
-- Store audit logs securely in Amazon S3
-- Monitor AWS API calls and events
-- Implement centralized audit logging
-- Understand SIEM-style security workflows
+This project demonstrates how cloud security teams monitor AWS account activities, track API calls, and store audit logs securely for compliance and forensic analysis.
+
+---
 
 ---
 
