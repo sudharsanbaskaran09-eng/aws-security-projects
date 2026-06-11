@@ -4,15 +4,6 @@ AWS Console Activity
 CloudTrail captures events
         ↓
 Audit logs generated
-        ↓
-Logs stored in Amazon S3
-        ↓
-Security auditing & monitoring
-```
-
----
-
-# Project Steps
 
 | Step | Task |
 |---|---|
