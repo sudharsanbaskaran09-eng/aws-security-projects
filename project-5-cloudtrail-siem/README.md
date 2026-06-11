@@ -10,20 +10,7 @@ This project demonstrates how cloud security teams monitor AWS account activitie
 
 The goal of this project is to:
 
-- Enable AWS CloudTrail logging
-- Capture AWS account activities
-- Store audit logs securely in Amazon S3
-- Monitor AWS API calls and events
-- Implement centralized audit logging
-- Understand SIEM-style security workflows
-
----
-
-# AWS Services Used
-
-| Service | Purpose |
-|---|---|
-| AWS CloudTrail | Audit logging and activity tracking |
+- Enable AWS Clou
 | Amazon S3 | Secure log storage |
 | IAM | Access and account activity monitoring |
 
