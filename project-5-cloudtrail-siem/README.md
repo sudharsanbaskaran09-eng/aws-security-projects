@@ -1,9 +1,81 @@
-# CloudTrai
+# CloudTrail Logging & SIEM Integration
+
+A hands-on AWS Security project focused on implementing centralized audit logging, activity monitoring, and security event visibility using AWS CloudTrail and Amazon S3.
+
+This project demonstrates how cloud security teams monitor AWS account activities, track API calls, and store audit logs securely for compliance and forensic analysis.
+
+---
+
+# Project Objective
+
+The goal of this project is to:
+
+- Enable AWS CloudTrail logging
+- Capture AWS account activities
+- Store audit logs securely in Amazon S3
+- Monitor AWS API calls and events
+- Implement centralized audit logging
+- Understand SIEM-style security workflows
+
+---
+
+# AWS Services Used
+
+| Service | Purpose |
+|---|---|
+| AWS CloudTrail | Audit logging and activity tracking |
+| Amazon S3 | Secure log storage |
+| IAM | Access and account activity monitoring |
+
+---
+
+# Architecture Overview
+
+```text
+AWS Account Activity
+        ↓
+AWS CloudTrail
+        ↓
+Audit Logs Generated
+        ↓
+Amazon S3 Bucket
+        ↓
+Centralized Log Storage
+        ↓
+Security Monitoring & Auditing
+```
+
+---
+
+# Key Features
+
+- Centralized audit logging
+- AWS activity tracking
+- API call monitoring
+- Secure log storage
+- Event history analysis
+- Compliance visibility
+- SIEM-style workflow
+
+---
+
+# Project Workflow
+
+```text
 AWS Console Activity
         ↓
 CloudTrail captures events
         ↓
 Audit logs generated
+        ↓
+Logs stored in Amazon S3
+        ↓
+Security auditing & monitoring
+```
+
+---
+
+# Project Steps
 
 | Step | Task |
 |---|---|
