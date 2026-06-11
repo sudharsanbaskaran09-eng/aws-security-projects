@@ -6,19 +6,6 @@ This project demonstrates how cloud security teams monitor AWS account activitie
 
 ---
 
-# Project Objective
-
-The goal of this project is to:
-
-- Enable AWS Clou
-| Amazon S3 | Secure log storage |
-| IAM | Access and account activity monitoring |
-
----
-
-# Architecture Overview
-
-```text
 AWS Account Activity
         ↓
 AWS CloudTrail
