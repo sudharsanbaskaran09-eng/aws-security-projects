@@ -1,10 +1,3 @@
-s
-
-- Use temporary credentials instead of access keys
-- Enable MFA for stronger security
-- Verify access using AWS CLI
-
----
 
 ## Architecture
 
