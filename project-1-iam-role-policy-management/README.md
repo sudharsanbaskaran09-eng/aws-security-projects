@@ -1,9 +1,4 @@
-# Project 1: IAM 
-|---|---|
-
----
-
-## Key Features
+s
 
 - Use temporary credentials instead of access keys
 - Enable MFA for stronger security
