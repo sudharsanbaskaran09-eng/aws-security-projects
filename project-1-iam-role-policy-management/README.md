@@ -1,9 +1,4 @@
-# Project 1: IAM Role & Policy Management
-
-A hands-on A
-## Services Used
-
-| Service | Purpose |
+# Project 1: IAM 
 |---|---|
 
 ---
