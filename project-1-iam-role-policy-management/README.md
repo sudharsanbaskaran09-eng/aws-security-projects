@@ -5,10 +5,6 @@
 
 ## Key Features
 
-- Create IAM User with restricted permissions
-- Attach AWS managed policies
-- Create custom IAM policies
-- Create IAM Role for EC2
 - Use temporary credentials instead of access keys
 - Enable MFA for stronger security
 - Verify access using AWS CLI
