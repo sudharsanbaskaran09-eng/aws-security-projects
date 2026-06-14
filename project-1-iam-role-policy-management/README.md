@@ -1,7 +1,52 @@
+# Project 1: IAM Role & Policy Management
+
+A hands-on AWS Security project focused on implementing secure Identity and Access Management (IAM) using IAM Users, Policies, Roles, and Multi-Factor Authentication (MFA).
+
+This project demonstrates how to secure AWS resources using the **Principle of Least Privilege**, ensuring users and services only receive the permissions they need.
+
+---
+
+##
+- No hardcoded AWS credentials are used
+
+---
+
+## Services Used
+
+| Service | Purpose |
+|---|---|
+| AWS IAM | Identity & Access Management |
+| Amazon EC2 | Virtual machine with IAM Role attached |
+| Amazon S3 | Storage accessed via temporary credentials |
+| AWS CLI | Verify access and test permissions |
+
+---
+
+## Key Features
+
+- Create IAM User with restricted permissions
+- Attach AWS managed policies
+- Create custom IAM policies
+- Create IAM Role for EC2
+- Use temporary credentials instead of access keys
+- Enable MFA for stronger security
+- Verify access using AWS CLI
+
+---
 
 ## Architecture
 
-`
+```text
+Developer User
+      ↓
+IAM User
+      ↓
+Managed / Custom Policy
+      ↓
+Limited AWS Access
+
+EC2 Instance
+      ↓
 IAM Role
       ↓
 Temporary Credentials
