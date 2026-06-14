@@ -2,12 +2,7 @@
 
 A hands-on AWS Security project focused on implementing secure Identity and Access Management (IAM) using IAM Users, Policies, Roles, and Multi-Factor Authentication (MFA).
 
-This project demonstrates how to secure AWS resources using the **Principle of Least Privilege**, ensuring users and services only receive the permissions they need.
-
----
-
-##
-- No hardcoded AWS credentials are used
+This proj
 
 ---
 
