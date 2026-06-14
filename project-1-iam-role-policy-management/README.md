@@ -8,17 +8,7 @@ s
 
 ## Architecture
 
-```text
-Developer User
-      ↓
-IAM User
-      ↓
-Managed / Custom Policy
-      ↓
-Limited AWS Access
-
-EC2 Instance
-      ↓
+`
 IAM Role
       ↓
 Temporary Credentials
