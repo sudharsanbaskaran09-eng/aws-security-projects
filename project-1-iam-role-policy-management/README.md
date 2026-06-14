@@ -10,10 +10,6 @@ This proj
 
 | Service | Purpose |
 |---|---|
-| AWS IAM | Identity & Access Management |
-| Amazon EC2 | Virtual machine with IAM Role attached |
-| Amazon S3 | Storage accessed via temporary credentials |
-| AWS CLI | Verify access and test permissions |
 
 ---
 
