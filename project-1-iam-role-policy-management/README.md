@@ -1,11 +1,6 @@
 # Project 1: IAM Role & Policy Management
 
-A hands-on AWS Security project focused on implementing secure Identity and Access Management (IAM) using IAM Users, Policies, Roles, and Multi-Factor Authentication (MFA).
-
-This proj
-
----
-
+A hands-on A
 ## Services Used
 
 | Service | Purpose |
